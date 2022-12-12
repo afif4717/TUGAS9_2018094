@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bab9_2018094</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_menu">ZALORA adalah toko online fashion dan kecantikan yang menawarkan koleksi pakaian, aksesoris, sepatu dan produk kecantikan untuk pria dan wanita. Berpusat di Singapura, ZALORA juga terdapat di Hong Kong, Singapura, Indonesia, Filipina, Thailand, Vietnam, Malaysia dan Brunei.</string>
+    <string name="ingredients">Diskon minggu ini 60% OFF</string>
+    <string name="price">Harga :</string>
+    <string name="Harga">Rp.1.000.000</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string-array name="Zalora">
+        <item>Sport Pria</item>
+        <item>Jam Tangan</item>
+        <item>Kemeja</item>
+    </string-array>
+    <string-array name="Star">
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.5</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>1.500.000</item>
+        <item>3.000.000</item>
+        <item>5.000.000</item>
+    </string-array>
+</resources>
